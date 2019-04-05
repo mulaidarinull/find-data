@@ -1,13 +1,3 @@
-<?php
-	include "koneksi.php";
-	
-	$query = mysql_query("select * from nama_keluarga");
-	
-	while($data = mysql_fetch_assoc($query)){
-		echo $data['nama'];
-	}
-
-?>
 
 <table class="table table-striped table-bordered table-hover" id="table_filter_find">
 	<thead>

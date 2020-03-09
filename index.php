@@ -15,7 +15,7 @@
 		<h1>Cari data terus ditampilin dengan klick di list data</h1>
 		<div class = "row">
 			<div class = "col-md-6">			
-			
+			<!-- disini -->
 				<div class="form-group">
 					<label class="control-label">
 						Nama <span class="symbol required"></span>

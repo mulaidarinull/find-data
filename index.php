@@ -12,7 +12,7 @@
   </head>
   <body>
 	<div class= "container">
-		<h1>Cari data terus ditampilin :)</h1>
+		<h1>Cari data terus ditampilin dengan klick di list data</h1>
 		<div class = "row">
 			<div class = "col-md-6">			
 			
